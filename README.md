@@ -1,6 +1,8 @@
 # Age of Heroes: Total War
 A Rome Total War Remastered Overhaul Mod based on the A Song of Ice and Fire (ASOIAF) Universe. The mod will maximize the features available in Rome Remastered and take creative liberty to create a gameplay experience flush with challenging emergent events in accordance to the ASOIAF lore. Pick your house and find glory!
 
+This mod's goal is to create a more dynamic, challenging, and full-body experience. The original Rome Total war features many static factions and often turns into an all-out-attack sprint through the map. By introducing emergent factions and events, this mod will force the player to not only attack in all directions, but defend from all directions.
+
 ## Table of Contents
 - **[Map](#map)**
 - **[Factions](#factions)**
@@ -10,9 +12,11 @@ A Rome Total War Remastered Overhaul Mod based on the A Song of Ice and Fire (AS
 - **[Faction Unique Gameplay Mechanics](#faction-unique-gameplay-mechanics)**
   - **[Night's Watch](#nights-watch-gameplay)**
   - **[Free Folk](#free-folk-gameplay)**
+- **[Unit Previews](#unit-previews)**
 
 ## Map
-The strategy map will encompass all of Westeros from Dorne to Thenn beyond the wall. The map will also include the west coast of Essos and a few of the Free Cities but these will not be important to gameplay. Expansion of the map has been thought about but as you will read later, the need for more factions would scale development exponentially. Warfare between Essosi and Westerosi factions will instead be implemented through major events.
+The strategy map will encompass all of Westeros from Dorne to Thenn beyond the wall. The map will also include the west coast of Essos and a few of the Free Cities but these will not be important to gameplay. Expansion of the map has been thought about but as you will read later, the need for more factions would scale development exponentially. Warfare between Essosi and Westerosi factions will instead be implemented through major events.\
+<img src="media/RadarMap.png">
 
 ## Factions
 Factions will continue to be expanded once initial mod development has been completed. The current goal is to replace all 20 vanilla factions with ASOIAF Houses and Factions + a few additional factions. Here is the list of initial planned factions.
@@ -21,7 +25,7 @@ Factions will continue to be expanded once initial mod development has been comp
 - House Royce
 - House Tully
 - House Mudd
-- House Casterly or House Lannister
+- House Lannister
 - House Gardener
 - House Yronwood
 - House Durrandon
@@ -100,3 +104,9 @@ All clans will have the generic free folk unit available to them composed of axe
 - **Giants**
   - Mammoths
   - Giants
+ 
+### Unit Previews
+#### Dothraki
+Just a little fun while learning to edit unit models\
+<img src="media/DothrakiCharge.gif">
+<img src="media/DothrakiCharge2.gif">
