@@ -13,7 +13,7 @@ This mod's goal is to create a more dynamic, challenging, and full-body experien
   - **[Night's Watch](#nights-watch-gameplay)**
   - **[Free Folk](#free-folk-gameplay)**
   - **[Triarchy](#triarchy-gameplay)**
-- **[Unit Previews](#unit-previews)**
+- **[Images](#images)**
 
 ## Map
 The strategy map will encompass all of Westeros from Dorne to Thenn beyond the wall. The map will also include the west coast of Essos and a few of the Free Cities but these will not be important to gameplay. Expansion of the map has been thought about but as you will read later, the need for more factions would scale development exponentially. Warfare between Essosi and Westerosi factions will instead be implemented through major events.\
@@ -115,7 +115,7 @@ All clans will have the generic free folk unit available to them composed of axe
 ### Triarchy Gameplay
 The Triarchy was composed of the Free Cities of Myr, Lys, and Tyrosh. Historically, their armies were comprised of mostly mercenaries and sellswords. To emulate this, the Triarchy cannot recruit in traditional manners and can only hire mercenaries.
  
-## Unit Previews
+## Images
 ### Dothraki
 Just a little fun while learning to edit unit models\
 <img src="media/DothrakiCharge.gif">
