@@ -12,6 +12,7 @@ This mod's goal is to create a more dynamic, challenging, and full-body experien
 - **[Faction Unique Gameplay Mechanics](#faction-unique-gameplay-mechanics)**
   - **[Night's Watch](#nights-watch-gameplay)**
   - **[Free Folk](#free-folk-gameplay)**
+  - **[Triarchy](#triarchy-gameplay)**
 - **[Unit Previews](#unit-previews)**
 
 ## Map
@@ -29,7 +30,6 @@ Factions will continue to be expanded once initial mod development has been comp
 - House Gardener
 - House Yronwood
 - House Durrandon
-- House Massey
 - House Greyiron
 - House Greyjoy
 #### Andal Houses
@@ -38,10 +38,11 @@ Factions will continue to be expanded once initial mod development has been comp
 - House Sevenstars
 - House Lydden
 - House Tyrell
-- House Bar Emmon
+- Drox the Corpse-Maker
 - House Nymeros-Martell
 #### Other Factions
 - House Targaryen
+- House Baratheon
 - Triarchy
 - Night's Watch
 - Free Folk
@@ -53,7 +54,7 @@ Future factions will be taken into consideration based upon popularity and impac
 ## Events
 ### Major Events
 #### Coming of the Andals
-The Andal invasion will be the first major event encountered by the player. It will begin on turn 20 (subject to change) allowing the player to establish a foothold in their territory. Utilizing the horde mechanics of Rome Total War: Barbarian Invasion, individual Andal Houses will begin to appear all over the continent of Westeros in search of a new home. Andal Houses will include: House Lydden (The Westerlands), House Vance (The Riverlands), House Arryn (The Vale), House Bar Emmon (The Stormlands), House Sevenstar (The North), House Nymeros-Martell (Dorne), House Tyrell (The Reach) and more as time allows for expansion beyond the main invaders.
+The Andal invasion will be the first major event encountered by the player. It will begin on turn 20 (subject to change) allowing the player to establish a foothold in their territory. Utilizing the horde mechanics of Rome Total War: Barbarian Invasion, individual Andal Houses will begin to appear all over the continent of Westeros in search of a new home. Andal Houses will include: House Lydden (The Westerlands), House Vance (The Riverlands), House Arryn (The Vale), House Corpse-Maker (The Stormlands), House Sevenstar (The North) and more as time allows for expansion beyond the main invaders. Although a First Men house, House Greyjoy will appear in the Iron Islands during the Andal invasion as they intermarried with the invaders.
 
 #### Targaryen Conquest
 The Targaryen Conquest will be the second major event occurred by the player on turn 40 (subject to change), allowing the player to make significant headway into their conquest. Landing with the Conqueror at King's Landing and the Baratheons in the Stormlands, the Targaryens will look to immediately find their foothold in eastern Westeros. While dragons are not in the scope of the current mod plan, the Targaryens will still be a major player.
@@ -70,6 +71,12 @@ If the player has not chosen a Free Folk/Wilding faction, a King-Beyond-the-Wall
 
 #### Nymeria's War
 The Warrior Queen Nymeria has arrived on the shores of Dorne years after the Coming of the Andals. Marrying into the Martell family, House Nymeros-Martell now stands as the most powerful house in Dorne. The player must fend off the foreign invaders to secure their rule over the kingdom.
+
+#### House Tully
+Although a First Men house, the Tully's rose to prominence after the extinction of House Mudd and during Aegon's Conquest. House Tully will be a possible emergent faction should House Mudd be eliminated and the Coming of the Andals event has already occurred.
+
+#### House Tyrell
+The Tyrells were founded by an Andal, Ser Alester Tyrell, but served as stewards to House Gardener. They rose to prominence after surrendering Highgarden to the Targaryens. The Tyrells will be an emergent faction should House Gardener be eliminated after the Coming of the Andals.
 
 ## Faction Unique Gameplay Mechanics
 ### Night's Watch Gameplay
@@ -105,8 +112,11 @@ All clans will have the generic free folk unit available to them composed of axe
   - Mammoths
   - Giants
  
-### Unit Previews
-#### Dothraki
+### Triachy Gameplay
+The Triarchy was composed of the Free Cities of Myr, Lys, and Tyrosh. Historically, their armies were comprised of mostly mercenaries and sellswords. To emulate this, the Triarchy cannot recruit in traditional manners and can only hire mercenaries.
+ 
+## Unit Previews
+### Dothraki
 Just a little fun while learning to edit unit models\
 <img src="media/DothrakiCharge.gif">
 <img src="media/DothrakiCharge2.gif">
