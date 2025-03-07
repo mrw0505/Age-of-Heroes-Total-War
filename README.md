@@ -112,7 +112,7 @@ All clans will have the generic free folk unit available to them composed of axe
   - Mammoths
   - Giants
  
-### Triachy Gameplay
+### Triarchy Gameplay
 The Triarchy was composed of the Free Cities of Myr, Lys, and Tyrosh. Historically, their armies were comprised of mostly mercenaries and sellswords. To emulate this, the Triarchy cannot recruit in traditional manners and can only hire mercenaries.
  
 ## Unit Previews
