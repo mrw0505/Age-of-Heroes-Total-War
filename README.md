@@ -14,6 +14,11 @@ This mod's goal is to create a more dynamic, challenging, and full-body experien
   - **[Free Folk](#free-folk-gameplay)**
   - **[Triarchy](#triarchy-gameplay)**
 - **[Images](#images)**
+  - **[Free Folk Warriors](#free-folk-warriors)**
+  - **[The Wall and the Night's Watch Castles](#the-wall-and-the-nights-watch-castles)**
+  - **[Night's Watch Roster](#nights-watch-roster)**
+  - **[Iron Islands Roster](#iron-islands-roster)**
+  - **[Dothraki Charge](#dothraki-charge)**
 
 ## Map
 The strategy map will encompass all of Westeros from Dorne to Thenn beyond the wall. The map will also include the west coast of Essos and a few of the Free Cities but these will not be important to gameplay. Expansion of the map has been thought about but as you will read later, the need for more factions would scale development exponentially. Warfare between Essosi and Westerosi factions will instead be implemented through major events.\
@@ -54,7 +59,8 @@ Future factions will be taken into consideration based upon popularity and impac
 ## Events
 ### Major Events
 #### Coming of the Andals
-The Andal invasion will be the first major event encountered by the player. It will begin on turn 20 (subject to change) allowing the player to establish a foothold in their territory. Utilizing the horde mechanics of Rome Total War: Barbarian Invasion, individual Andal Houses will begin to appear all over the continent of Westeros in search of a new home. Andal Houses will include: House Lydden (The Westerlands), House Vance (The Riverlands), House Arryn (The Vale), House Corpse-Maker (The Stormlands), House Sevenstar (The North) and more as time allows for expansion beyond the main invaders. Although a First Men house, House Greyjoy will appear in the Iron Islands during the Andal invasion as they intermarried with the invaders.
+The Andal invasion will be the first major event encountered by the player. It will begin on turn 20 (subject to change) allowing the player to establish a foothold in their territory. Utilizing the horde mechanics of Rome Total War: Barbarian Invasion, individual Andal Houses will begin to appear all over the continent of Westeros in search of a new home. Andal Houses will include: House Lydden (The Westerlands), House Vance (The Riverlands), House Arryn (The Vale), House Corpse-Maker (The Stormlands), House Sevenstar (The North) and more as time allows for expansion beyond the main invaders. Although a First Men house, House Greyjoy will appear in the Iron Islands during the Andal invasion as they intermarried with the invaders.\
+<img src="media/andalinvasion.png">
 
 #### Targaryen Conquest
 The Targaryen Conquest will be the second major event occurred by the player on turn 40 (subject to change), allowing the player to make significant headway into their conquest. Landing with the Conqueror at King's Landing and the Baratheons in the Stormlands, the Targaryens will look to immediately find their foothold in eastern Westeros. While dragons are not in the scope of the current mod plan, the Targaryens will still be a major player.
@@ -113,10 +119,22 @@ All clans will have the generic free folk unit available to them composed of axe
   - Giants
  
 ### Triarchy Gameplay
-The Triarchy was composed of the Free Cities of Myr, Lys, and Tyrosh. Historically, their armies were comprised of mostly mercenaries and sellswords. To emulate this, the Triarchy cannot recruit in traditional manners and can only hire mercenaries.
+The Triarchy was composed of the Free Cities of Myr, Lys, and Tyrosh. Historically, their armies were mostly mercenaries and sellswords. To emulate this, the Triarchy cannot recruit in traditional manners and can only hire mercenaries.
  
 ## Images
-### Dothraki
+### Free Folk Warriors
+Free Folk unit utilizing Rome Remastered new feature allowing for multiple unit models. This can better demonstrate the Free Folk's lack of cohesive equipment and troop types.\
+<img src="media/freefolkvariation.png">
+### The Wall and the Night's Watch Castles
+The Castles on the Wall. Implementation is still in the air for how to handle the Night's Watch Castle walls are still being decided.
+<img src="media/TheWall_StratMap.png">
+### Night's Watch Roster
+The Night's Watch roster. (Left to Right) Night's Watch Rangers, Night's Watch Builders, Night's Watch Recruits, Night's Watch Stewards, Night's Watch Riders (General Unit)\
+<img src="media/nightswatchroster.png">
+### Iron Islands Roster
+The Iron Islands roster for House Greyjoy and Greyiron. (Left to Right) Peasants, Ironborn, Ironborn Berserkers, Ironborn Raiders, Ironborn Warriors, Ironborn Finger Dancers (General Unit)\
+<img src="media/ironislandsroster.png">
+### Dothraki Charge
 Just a little fun while learning to edit unit models\
 <img src="media/DothrakiCharge.gif">
 <img src="media/DothrakiCharge2.gif">
