@@ -29,8 +29,8 @@ This mod's goal is to create a more dynamic, challenging, and full-body experien
   - **[Free Folk](#free-folk-gameplay)**
   - **[Triarchy](#triarchy-gameplay)**
 - **[Gameplay Features](#gameplay-features)**
-  - **[The Trueborn Line](#the-royal-line)**
-  - **[Legitimized Bastard](#legitimized-bastards)**
+  - **[The Royal Line](#the-royal-line)**
+  - **[Legitimized Bastards](#legitimized-bastards)**
 - **[Images](#images)**
   - **[Free Folk Warriors](#free-folk-warriors)**
   - **[Iron Islands Roster](#iron-islands-roster)**
