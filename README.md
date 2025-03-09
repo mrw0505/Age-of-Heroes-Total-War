@@ -6,15 +6,31 @@ This mod's goal is to create a more dynamic, challenging, and full-body experien
 ## Table of Contents
 - **[Map](#map)**
 - **[Factions](#factions)**
+  - **[First Men Houses](#first-men-houses)**
+  - **[Andal Houses](#andal-houses)**
+  - **[Andal Houses](#andal-houses)**
+  - **[Other Factions](#other-factions)**
+  - **[Cadet Houses](#cadet-houses)**
 - **[Events](#events)**
   - **[Major Events](#major-events)**
+    - **[Coming of the Andals](#coming-of-the-andals)**
+    - **[Targaryen Conquest](#targaryen-conquest)**
+    - **[Triarchy Invasion of the Stepstones](#triarchy-invasion-of-the-stepstones)**
+    - **[The Long Night](#the-long-night)**
   - **[Minor Events](#minor-events)**
+    - **[King-Beyond-the-Wall](#king-beyond-the-wall)**
+    - **[Nymeria's War](#nymerias-war)**
+    - **[House Tully](#house-tully)**
+    - **[House Tyrell](#house-tyrell)**
 - **[Faction Unique Gameplay Mechanics](#faction-unique-gameplay-mechanics)**
   - **[Night's Watch](#nights-watch-gameplay)**
     - **[Night's Watch Units](#nights-watch-units)**
     - **[Night's Watch Castles](#nights-watch-castles)**
   - **[Free Folk](#free-folk-gameplay)**
   - **[Triarchy](#triarchy-gameplay)**
+- **[Gameplay Features](#gameplay-features)**
+  - **[The Trueborn Line](#the-royal-line)**
+  - **[Legitimized Bastard](#legitimized-bastards)**
 - **[Images](#images)**
   - **[Free Folk Warriors](#free-folk-warriors)**
   - **[Iron Islands Roster](#iron-islands-roster)**
@@ -43,7 +59,13 @@ From Left-to-Right, Top-to-Bottom: Free Folk (Clans will initially be part of th
 <img src="media/otherfactions.png">
 
 ### Future Factions
-Future factions are in future plans. The number of factions possible to implement from the lore is expansive, and focus will be placed on other items first to prevent scope creep. The implementation of some houses may not be explicit and may be through random events within other factions. For example, House Manderly may be a random event for House Stark when a son "comes of age" as an adopted Manderly. This way, we can include House Manderly's salvation by the Starks rather than introducing them as a faction the Starks must destroy to solidify the North. Another example of this that has already been implemented will be Cadet branches like the Karstarks, who will "appear" within the Stark Faction should a family member named "Karlon Stark" come of age.
+Future factions are in future plans. The number of factions possible to implement from the lore is expansive, and focus will be placed on other items first to prevent scope creep. 
+
+### Cadet Houses
+The implementation of some houses may not be explicit and may be through events within other factions. For example, House Manderly may "emerge" inside House Stark when a son "comes of age" as an adopted Manderly. This way, we can include House Manderly's salvation by the Starks rather than introducing them as a faction the Starks must destroy to solidify the North. Another example of this that has already been implemented will be Cadet branches like the Karstarks, who will "appear" within the Stark Faction should a family member named "Karlon Stark" come of age. This mechanic will use hereditary trait epithets to change and assign family surnames.
+
+Cadet Houses so far
+- Starks: House Karstark (Coming of Age: Karlon Stark), House Cassel (Coming of Age: Lonnel Stark, in lore as Lonnel Snow), House Greystark (A son of a legitimized Royal Bastard comes of age)
 
 <img src="media/karstark.png">
 
@@ -85,7 +107,7 @@ The Night's Watch settlements will always have the minimum population, meaning t
 #### Night's Watch Units
 - From Left-to-Right: Rangers (Line Infantry), Builders (Shock Infantry), Recruits, Stewards (Crossbowmen), Riders (General's Bodyguard)
 
- <img src="media/nightswatchroster.png">
+<img src="media/nightswatchroster.png">
  
 #### Night's Watch Castles
 Each castle and town of the Night's Watch matters.
@@ -120,7 +142,18 @@ All clans will have the generic free folk unit available to them composed of axe
  
 ### Triarchy Gameplay
 The Triarchy was composed of the Free Cities of Myr, Lys, and Tyrosh. Historically, their armies were mostly mercenaries and sellswords. To emulate this, the Triarchy cannot recruit in traditional manners and can only hire mercenaries.
- 
+
+## Gameplay Features
+### The Royal Line
+Every faction, except the Night's Watch, Free Folk, and Triarchy, will have a royal line. Those with the Royal Blood trait will have increased influence to denote their royal status. Most Cadet Branch events will be tied to the royal line as they carry the true, non-epithet surname recognized by the game system. This will help emulate the protection and emphasis of heirs seen in the book's lore and real history. Should the royal line be extinguished, the new faction leader will gain the trait of "adopted". The adopted trait will give them their house's name to carry on but will not give the trueborn trait bonuses. **NOTE:** This may be only available to the player and not the CPU factions due to the irregularity and control of their faction heirs.
+
+<img src="media/royalblood.png">
+
+### Legitimized Bastards
+When a male family member comes of age, there is a small chance the child will be a bastard. The bastard trait will give negative bonuses to influence to denote their status but will open up the possibility for cadet branches should they be available to the player. Traits in the father related to drinking, partying, or infidelity will raise the chances for bastards being born. There will be two versions of bastards available. A "Royal Bastard" will be those born from the royal line while a "Bastard" will be born from a non-royal line. The sons of Royal Bastards will earn Cadet Branch surnames such as "Greystark," while the sons of Bastards will receive regional surnames such as "of the North."
+
+<img src="media/bastard.png">
+
 ## Images
 ### Free Folk Warriors
 Free Folk unit utilizing Rome Remastered new feature allowing for multiple unit models. This can better demonstrate the Free Folk's lack of cohesive equipment and troop types.
