@@ -5,9 +5,10 @@ This mod's goal is to create a more dynamic, challenging, and full-body experien
 
 ## Table of Contents
 - **[Map](#map)**
+  - **[Iron Islands Map](#iron-islands)**
+  - **[Night's Watch Map](#nights-watch)**
 - **[Factions](#factions)**
   - **[First Men Houses](#first-men-houses)**
-  - **[Andal Houses](#andal-houses)**
   - **[Andal Houses](#andal-houses)**
   - **[Other Factions](#other-factions)**
   - **[Cadet Houses](#cadet-houses)**
@@ -40,6 +41,14 @@ This mod's goal is to create a more dynamic, challenging, and full-body experien
 The strategy map will encompass Westeros from Dorne to Thenn beyond the wall. The map will also include the west coast of Essos and a few of the Free Cities, but these will not be important to gameplay. Expansion of the map has been thought about, but as you will read later, the need for more factions would scale development exponentially. Warfare between Essosi and Westerosi factions will instead be implemented through major events.
 
 <img src="media/RadarMap.png">
+
+### Iron Islands
+
+<img src="media/ironislands.png">
+
+### Night's Watch
+
+<img src="media/the_wall.png">
 
 ## Factions
 Factions will continue to be expanded once initial mod development has been completed. The initial goal is to replace all 20 vanilla factions with ASOIAF Houses and Factions, plus a few additional factions. Here is the list of initial planned factions.
